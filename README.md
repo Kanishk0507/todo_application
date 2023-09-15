@@ -25,12 +25,3 @@ A to-do application created with Flutter is a cross-platform mobile app that hel
 
 # Task deleted successfully 
 ![Screenshot_2023-09-15-15-12-21-950_com example todo_application](https://github.com/Kanishk0507/todo_application/assets/98214136/018e0e19-9145-479d-9770-351e6a25c3d6)
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
