@@ -1,4 +1,4 @@
-TODO APPLICATION 
+# TODO APPLICATION 
 
 A to-do application created with Flutter is a cross-platform mobile app that helps users organize and manage their tasks and activities. It typically features a clean and intuitive user interface, allowing users to create, edit and delete tasks easily. The app includes ability to mark tasks as completed.
 
